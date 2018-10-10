@@ -10,5 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "sqlite-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
